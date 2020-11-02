@@ -1,6 +1,8 @@
 # journal_app
 
 A new Flutter project.
+video link
+[](https://www.youtube.com/watch?v=dQHQ1_Jen6c&ab_channel=AndyJulow)
 
 ## Getting Started
 
